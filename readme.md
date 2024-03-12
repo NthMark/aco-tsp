@@ -1,3 +1,1 @@
-# Họ và tên: Nguyễn Thiên Hảo
-# Lớp : K66R
-# Môn : Robot phân tán
+# It's a better version of the original code of predecessor
